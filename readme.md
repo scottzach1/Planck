@@ -5,7 +5,7 @@ This keyboard layout implements a personal variation of Colemak Mod-DH with M-K 
 One notable change with this layout is space + backspace in line with the homing keys.
 As such, Lower and Raise have been moved to occupy the middle two keys.
 
-I have been using this layout happily daily now for 6 months since this commit. 
+I have been using this layout happily daily now since June 2019. 
 
 ``` 
  Colemak Mod-DH
@@ -29,7 +29,7 @@ I have been using this layout happily daily now for 6 months since this commit.
 |-------+-------+-------+-------+-------+-------+-------+------+-------+-------+--------+-------|
 | Shift |       |   [   |   ]   |       |       |   /   |   1  |   2   |   3   |   +    |   =   |
 |-------+-------+-------+-------+-------+-------+-------+------+-------+-------+--------+-------|
-| Ctrl  |  GUI  | Alt   | Shif  | Space | Lower | Func  | Bksp |   0   |   .   |   =    | Ctrl  |
+| Ctrl  |  GUI  | Alt   | Shift | Space | Lower | Func  | Bksp |   0   |   .   |   =    | Ctrl  |
 `-----------------------------------------------------------------------------------------------'
 ```
 
