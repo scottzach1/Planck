@@ -1,5 +1,6 @@
-# Scottzach1 Planck Layout
+![Personal Planck Rev6](https://github.com/scottzach1/keeb/blob/master/img/img_02.jpg)
 
+# Scottzach1 Planck Layout
 This keyboard layout implements a personal variation of Colemak Mod-DH with M-K switched.
 One notable change with this layout is space + backspace in line with the homing keys.
 As such, Lower and Raise have been moved to occupy the middle two keys.
@@ -70,4 +71,3 @@ I have been using this layout happily daily now for 6 months since this commit.
     |       |       |       |       |       |       |       |       |       |       |       |       |
     `-----------------------------------------------------------------------------------------------'
 ```
-![Personal Planck Rev6](https://github.com/scottzach1/keeb/blob/master/img/img_02.jpg)
