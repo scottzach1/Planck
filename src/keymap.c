@@ -15,10 +15,6 @@ enum planck_layers {
 #define FUNCT MO(_FUNCTION)
 #define DEBUG MO(_DEBUG)
 
-/*
- * Scottzach1
- */
-
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 /* Colemak Mod-DH
@@ -41,7 +37,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 /* Lower
  * ,-----------------------------------------------------------------------------------------------------------.
- * | Tab    |        |   {    |   }    |        |        |   ~    |   7    |   8    |   9    |   0    |        |
+ * | Tab    |        |   {    |   }    |        |        |   `    |   7    |   8    |   9    |   0    |        |
  * |--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------|
  * | Func   |        |   (    |   )    |        |        |   *    |   4    |   5    |   6    |   -    | Enter  |
  * |--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------|
@@ -51,7 +47,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * `-----------------------------------------------------------------------------------------------------------'
  */
 [_LOWER] = LAYOUT_ortho_4x12(
-    _______, xxxxxxx, KC_LCBR, KC_RCBR, xxxxxxx,  xxxxxxx, KC_TILD, KC_7,    KC_8,    KC_9,    KC_0,    _______,
+    _______, xxxxxxx, KC_LCBR, KC_RCBR, xxxxxxx,  xxxxxxx, KC_GRV,  KC_7,    KC_8,    KC_9,    KC_0,    _______,
     _______, xxxxxxx, KC_LPRN, KC_RPRN, xxxxxxx,  xxxxxxx, KC_ASTR, KC_4,    KC_5,    KC_6,    KC_MINS, _______,
     _______, xxxxxxx, KC_LBRC, KC_RBRC, xxxxxxx,  xxxxxxx, KC_SLSH, KC_1,    KC_2,    KC_3,    KC_PLUS, KC_EQL,
     _______, _______, _______, _______, _______,  _______, FUNCT,   _______, KC_0,    KC_DOT,  _______,  _______
