@@ -84,7 +84,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  */
 [_FUNCTION] = LAYOUT_ortho_4x12(
     KC_ESC,  xxxxxxx, KC_MPRV, KC_MPLY, KC_MNXT, xxxxxxx, xxxxxxx, KC_F7,   KC_F8,   KC_F9,   KC_F10,  xxxxxxx,
-    _______, xxxxxxx, KC_VOLU, KC_VOLD, KC_MUTE, xxxxxxx, xxxxxxx, KC_F4,   KC_F5,   KC_F6,   KC_F11,  _______,
+    _______, xxxxxxx, KC_VOLD, KC_VOLU, KC_MUTE, xxxxxxx, xxxxxxx, KC_F4,   KC_F5,   KC_F6,   KC_F11,  _______,
     _______, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, KC_F1,   KC_F2,   KC_F3,   KC_F12,  _______,
     _______, _______, _______, _______, _______, DEBUG,   DEBUG,   _______, _______, _______, _______, _______
 ),
