@@ -1,4 +1,4 @@
-![Personal Planck Rev6](https://github.com/scottzach1/Planck/blob/master/img/img_02.jpg)
+![Personal Planck Rev6](https://github.com/scottzach1/Planck/blob/master/img/img_05.jpg)
 
 # Scottzach1 Planck Layout
 This keyboard layout implements a personal variation of Colemak Mod-DH with M-K switched.
