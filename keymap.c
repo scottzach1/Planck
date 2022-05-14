@@ -9,11 +9,9 @@ enum planck_layers {
 };
 
 #define xxxxxxx KC_NO
-#define _______ KC_TRNS
 #define LOWER MO(_LOWER)
 #define RAISE MO(_RAISE)
 #define FUNCT MO(_FUNCTION)
-#define DEBUG MO(_DEBUG)
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
